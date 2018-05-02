@@ -96,8 +96,5 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 define('FS_METHOD', "direct");
-define('FTP_HOST', '123.206.99.158:22');
-define('FTP_USER', 'root');
-define('FTP_PASS', 'xioa@0239');
 define("FS_CHMOD_DIR", 0777);
 define("FS_CHMOD_FILE", 0777);
