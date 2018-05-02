@@ -1,0 +1,14 @@
+#customize-controls .control-section-nucleareProVersion .accordion-section-title:hover,
+#customize-controls .control-section-nucleareProVersion .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-nucleareProVersion .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	font-size: 80%;
+    padding: 0 5px;
+	background: #689e5b;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+}
