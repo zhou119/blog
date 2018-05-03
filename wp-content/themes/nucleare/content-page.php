@@ -21,7 +21,7 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<?php the_content(); ?>
+		<?php the_content('...你座位的边缘? 点击这儿来解开奥秘。'); ?>
 		<?php
 			wp_link_pages( array(
 				'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'nucleare' ),
